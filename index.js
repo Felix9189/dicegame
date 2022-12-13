@@ -34,4 +34,4 @@ image3.setAttribute("src", randomImgeSource3);
 // }
 
 var sumScore = randomNumber1 + randomNumber2 + randomNumber3;
-var yourScore = document.querySelector("h2").innerHTML = "Your score " + sumScore;
+var yourScore = document.querySelector("h2").innerHTML = "🏆Your score " + sumScore+"🏆";
